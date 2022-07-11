@@ -1,0 +1,55 @@
+*{
+    margin:50px;
+    font-family: 'Raleway', sans-serif;
+    background-color: #F9F9F9;
+}
+.heading-1{
+    text-align: center;
+    text-transform:uppercase;
+    color: #1ABC9C;
+}
+.heading-2{
+    text-align:center;
+    text-transform: uppercase;
+}
+.one{
+    font-style:bold;
+    font-size:20px;
+    line-height: 10px;
+    margin:0px;
+}
+.two{
+    margin:0px;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 10px;
+}
+#first{
+    font-style: bold;
+    font-size: 20px;
+}
+.three{
+    margin: 0px;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 10px;
+}
+#second{
+    font-style: bold;
+    font-size: 20px;
+}
+.four{
+    margin: 0px;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 10px;
+}
+.footer{
+    text-align: center;
+}
+
+
+
+
+
+
